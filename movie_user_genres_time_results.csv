@@ -1,0 +1,6 @@
+,Method,RMSE
+1,Baseline Model,"1,06062549225372"
+2,Movie Effect Model,"0,944387933959757"
+3,Movie and User Effects Model,"0,869418019952897"
+4,Movie User and Genres Effects Model,"0,869066740408623"
+5,Movie User Genres and Time (HOURLY AVERAGES OF RATINGS) Effects Model ,"0,86758614613947"
