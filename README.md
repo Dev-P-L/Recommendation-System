@@ -1,5 +1,5 @@
 # Recommendation-System
-First challenge from Capstone Examination PH125.9x organized by HarvardX
+This is a response to the first challenge from Capstone Examination PH125.9x organized by HarvardX.
 
 Readers who are interested in running the programs from this project should first 
 read “Important Foreword – Requirements” from Recommendation_Report.pdf. 
