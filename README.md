@@ -1,4 +1,4 @@
-# Recommendation-System
+# Recommendation System
 
 This Data Science project in R is a response to the first challenge 
 from Capstone Examination PH125.9x organized by Harvard University on edX 
