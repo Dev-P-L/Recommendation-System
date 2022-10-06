@@ -1,4 +1,11 @@
-# Recommendation System
+# Access to HTML Document
+
+https://dev-p-l.github.io/Recommendation-System/Recommendation_Report.html
+
+<br>
+<br>
+
+# Swift Presentation of Data Science Project on Recommendation System
 
 This Data Science project is a response to the first challenge 
 from the Capstone Examination PH125.9x organized by Harvard University on edX.
@@ -11,9 +18,6 @@ It has been a milestone towards obtaining their Professional Certificate in Data
 * Wishing to visualize *Recommendation_Report.pdf*? Very easy: just download it from GitHub.
 
 * Wishing to visualize *Recommendation_Report.html*?
-  * You could activate the hyperlink *https://dev-p-l.github.io/Recommendation-System/Recommendation_Report.html* .
+  * You could activate the hyperlink https://dev-p-l.github.io/Recommendation-System/Recommendation_Report.html .
   * Alternatively, you could open it in GitHub Desktop.
   * Alternatively again, you could knit *Report.Rmd* or ask me by email for a copy of *70_cohort_analysis_final_report.html* .
-
-
-
